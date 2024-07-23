@@ -1,1 +1,13 @@
-# qa_python
+# qa_python Sprint_2
+## Список тестов
+
+1. test_add_new_book_add_two_books
+2. test_add_error_book_add_0_book
+3. test_set_new_book_genre_add_genre
+4. test_get_books_with_specific_genre_get_book
+5. test_get_books_for_children_get_book
+6. test_get_books_not_for_children_dont_get_book_not_for_children
+7. test_add_book_in_favorites_book_in_favorites
+8. test_delete_book_from_favorites_book_is_not_in_favorites
+9. test_get_list_of_favorites_books_get_books_list
+10. test_add_new_book_no_genre
